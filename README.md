@@ -59,5 +59,6 @@ STEPS FOLLOWED
 13. I copied and pasted all my charts from each source and represented them on the dashboard.
 
 ![DASHBOARD](https://github.com/user-attachments/assets/175947b7-1730-45e1-8155-f9e0003582e3)
+
 14. I inserted Slizers.
 						
